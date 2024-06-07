@@ -4,15 +4,15 @@
 
 
 
-- 🔭 I’m currently working on [a Discord AI chatbot](https://github.com/erinwolff/aiChatBot)
+- 🔭 I’m currently working on [a Discord AI chatbot named Pip](https://github.com/erinwolff/aiChatBot)
 
 - 🌱 I’m currently learning **all things AI (prompting, models, applications)**
 
 - 📫 How to reach me: **erin_wolff@outlook.com**
 
-- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/erinmwolff)!
+- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/erinmwolff)
 
-- 📄 Know about my experiences, [view my resume!](https://drive.google.com/file/d/1uNu3M9ovtzNI4ou_etWmhMSYyrnDEn-0/view?usp=sharing)
+- 📄 Learn about my experiences: [View my resume](https://drive.google.com/file/d/1uNu3M9ovtzNI4ou_etWmhMSYyrnDEn-0/view?usp=sharing)
 
 - ⚡ Fun fact: **I love fantasy!**
 
