@@ -6,8 +6,6 @@
   <a href="mailto:erin_wolff@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p>
 
-- 👩 Pronouns: She/Her
-  
 - 🔭 I’m currently working on [a Discord AI chatbot named Pip](https://github.com/erinwolff/aiChatBot) & tinkering with my Raspberry Pi
 
 - 🌱 I’m currently learning **all things AI (prompting, models, applications)**
