@@ -42,5 +42,5 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>       
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/erinwolff/erinwolff/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/erinwolff/erinwolff/blob/output/github-contribution-grid-snake2.svg)
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erinwolff&" alt="erinwolff" /></p>
