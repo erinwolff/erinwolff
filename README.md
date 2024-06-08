@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-🔭 I’m currently working on: <a href="https://github.com/erinwolff/aiChatBot">a Discord AI chatbot named Pip</a> & tinkering with my Raspberry Pi
+🔭 I’m currently working on: <a href="https://github.com/erinwolff/aiChatBot">Discord AI chatbot named Pip</a> & tinkering with my <b>Raspberry Pi</b>
 </br>
 </br>
 🌱 I’m currently learning: <b>all things AI (prompting, models, applications)</b>
@@ -21,8 +21,8 @@
 </br>
 ❤️ I love: <b>reading, gaming, anime, biking, coffee, and all things fantasy!</b>
 </div>
-
-<h3 align="center">Languages and Tools:</h3>
+<hr>
+<h3 align="center">Languages and Tools</h3>
 <div align="center">
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -51,7 +51,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>       
 </p>
 </div>
-
+<hr>
+<h3 align="center">Contributions & Stats</h3>
 <div align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erinwolff/erinwolff/blob/output/github-snake-dark.svg" />
