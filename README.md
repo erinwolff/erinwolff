@@ -2,12 +2,12 @@
 <h3><img src="/header-image-.png"></h3> 
 <h3 align="center">A passionate full-stack developer from Washington ⛰️</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/erinmwolff"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:erin_wolff@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://linkedin.com/in/erinmwolff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:erin_wolff@outlook.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p>
 
 <div align="center">
-🔭 I’m currently working on: <a href="https://github.com/erinwolff/aiChatBot">Discord AI chatbot named Pip</a> & tinkering with my <b>Raspberry Pi</b>
+🔭 I’m currently working on: <a href="https://github.com/erinwolff/aiChatBot" target="_blank" rel="noreferrer">Discord AI chatbot named Pip</a> & tinkering with my <b>Raspberry Pi</b>
 </br>
 </br>
 🌱 I’m currently learning: <b>all things AI (prompting, models, applications)</b>
@@ -16,7 +16,7 @@
 🎮 Keen to dive into: game development with <b>Phaser</b>
 </br>
 </br>
-📄 Learn about my experiences: <a href="https://drive.google.com/file/d/1Niq7peTIm8VZTRz3CipNJE_vS4x_nuxv/view?usp=sharing">View my resume</a>
+📄 Learn about my experiences: <a href="https://drive.google.com/file/d/1Niq7peTIm8VZTRz3CipNJE_vS4x_nuxv/view?usp=sharing" target="_blank" rel="noreferrer">View my resume</a>
 </br>
 </br>
 ❤️ I love: <b>reading, gaming, anime, biking, coffee, and all things fantasy!</b>
