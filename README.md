@@ -16,7 +16,7 @@
 🎮 Keen to dive into: game development with <b>Phaser</b>
 </br>
 </br>
-📄 Learn about my experiences: <a href="https://drive.google.com/file/d/1uNu3M9ovtzNI4ou_etWmhMSYyrnDEn-0/view?usp=sharing">View my resume</a>
+📄 Learn about my experiences: <a href="https://drive.google.com/file/d/1Niq7peTIm8VZTRz3CipNJE_vS4x_nuxv/view?usp=sharing">View my resume</a>
 </br>
 </br>
 ❤️ I love: <b>reading, gaming, anime, biking, coffee, and all things fantasy!</b>
