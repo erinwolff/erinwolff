@@ -7,13 +7,10 @@
 </p>
 
 <div align="center">
-🔭 I’m currently working on: <a href="https://github.com/erinwolff/aiChatBot" target="_blank" rel="noreferrer">Discord AI chatbot named Pip</a> & tinkering with my <b>Raspberry Pi</b>
+🔭 I’m currently working on: <a href="https://github.com/erinwolff/idlegame" target="_blank" rel="noreferrer">an idle game using Phaser</a>
 </br>
 </br>
-🌱 I’m currently learning: <b>all things AI (prompting, models, applications)</b>
-</br>
-</br>
-🎮 Keen to dive into: game development with <b>Phaser</b>
+🌱 I’m currently learning: <b>all things AI (prompting, models, applications) & <a href="https://phaser.io/" target="_blank" rel="noreferrer">Phaser</a></b>
 </br>
 </br>
 📄 Learn about my experiences: <a href="https://drive.google.com/file/d/1IrjASAyRx5HH-9kSjOiHgoZzX4ftKcVt/view?usp=drivesdk" target="_blank" rel="noreferrer">View my resume</a>
