@@ -13,7 +13,7 @@
 🌱 I’m currently learning: <b>all things AI (prompting, models, applications) & <a href="https://phaser.io/" target="_blank" rel="noreferrer">Phaser</a></b>
 </br>
 </br>
-📄 Learn about my experiences: <a href="https://drive.google.com/file/d/1IrjASAyRx5HH-9kSjOiHgoZzX4ftKcVt/view?usp=drivesdk" target="_blank" rel="noreferrer">View my resume</a>
+📄 Learn about my experiences: <a href="https://drive.google.com/file/d/1c1OmN3FtqLfQuWDI6qGXCZtbCQ3yZAYT/view?usp=sharing" target="_blank" rel="noreferrer">View my resume</a>
 </br>
 </br>
 ❤️ I love: <b>reading, gaming, anime, biking, coffee, and all things fantasy!</b>
