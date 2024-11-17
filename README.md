@@ -10,7 +10,7 @@
 🌱 I’m currently learning: <b>all things AI (prompting, models, applications)</b>
 </br>
 </br>
-❤️ I love: <b>reading, gaming, anime, biking, coffee, and all things fantasy!</b>
+❤️ I love: <b>reading, gaming, anime, coffee, and all things fantasy!</b>
 </div>
 <hr>
 <h3 align="center">Languages and Tools</h3>
