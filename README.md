@@ -7,9 +7,6 @@
 </p>
 
 <div align="center">
-🌱 I’m currently learning: <b>all things AI (prompting, models, applications)</b>
-</br>
-</br>
 ❤️ I love: <b>reading, gaming, anime, coffee, and all things fantasy!</b>
 </div>
 <hr>
